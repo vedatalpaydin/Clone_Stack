@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f37ca86-9e67-4393-974f-86cb5b260a88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clone_Stack/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clone_Stack/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clone_Stack/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clone_Stack/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clone_Stack/.idea/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clone_Stack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrips/CubeSpawner.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrips/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrips/MoveDirection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrips/MoveDirection.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrips/ScoreText.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Clone_Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Clone_Stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrips/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scrips/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrips/MovingCube.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scrips/MovingCube.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scrips/ScoreText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scrips/ScoreText.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +31,10 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scrips/ScoreText.cs" />
       <option value="$PROJECT_DIR$/Assets/Scrips/CubeSpawner.cs" />
       <option value="$PROJECT_DIR$/Assets/Scrips/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scrips/MovingCube.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scrips/ScoreText.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qU0q841omr52nr6uSo1sMjApvB" />
@@ -91,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617119056588</updated>
-      <workItem from="1617119057743" duration="9156000" />
+      <workItem from="1617119057743" duration="9749000" />
     </task>
     <servers />
   </component>

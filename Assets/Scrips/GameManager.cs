@@ -9,7 +9,6 @@ public class GameManager : MonoBehaviour
     private CubeSpawner[] spawners;
     private int spawnerIndex;
     private CubeSpawner currentSpawner;
-    bool gameIsStart;
 
     private void Awake()
     {

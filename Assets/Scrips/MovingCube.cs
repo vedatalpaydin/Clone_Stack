@@ -36,6 +36,7 @@ public class MovingCube : MonoBehaviour
 
     public void Stop()
     {
+        if(gameObject.name=="Start") return;
         moveSpeed = 0f;
         float hangover = GetHangover();
         float max = MoveDirection == MoveDirection.Z
@@ -53,8 +54,7 @@ public class MovingCube : MonoBehaviour
             SplitCubeOnZ(hangover, direction);
         else
             SplitCubeOnX(hangover, direction);
-
-
+        
         LastCube = this;
     }
 
@@ -99,7 +99,7 @@ public class MovingCube : MonoBehaviour
     private void SpawnDropCube(float fallingBlockZPosition, float fallingBlockSize)
     {
         var cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
-
+        
         if (MoveDirection == MoveDirection.Z)
         {
             cube.transform.localScale = new Vector3(transform.localScale.x, transform.localScale.y, fallingBlockSize);

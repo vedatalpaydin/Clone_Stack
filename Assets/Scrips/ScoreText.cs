@@ -7,7 +7,7 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class ScoreText : MonoBehaviour
 {
-    private int score;
+    private int score=-1;
     private TextMeshProUGUI text;
 
     // Start is called before the first frame update
